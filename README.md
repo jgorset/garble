@@ -8,11 +8,12 @@ Garble replaces words with synonyms.
 
 ## Usage
 
-    $ echo "I love this" | garble key
+    $ echo "I love this" | garble <key>
     > 1 sexual activity this
 
-If you use Garble a lot (and you will be), you can store your API key in an environment
-variable `GARBLE_KEY` save yourself some grief.
+You'll have to register an account over at [Big Huge Thesaurus](http://words.bighugelabs.com/api.php) to get
+your key. Don't worry, though, they're totally cool. If you use Garble a lot (and you will be), you can
+store your key in an environment variable `GARBLE_KEY` save yourself some grief.
 
 ## I love you
 

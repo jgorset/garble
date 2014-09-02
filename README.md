@@ -13,8 +13,8 @@ Garble replaces words with synonyms.
 
 Garble uses [Big Huge Thesaurus](http://words.bighugelabs.com/) and you'll have to
 [register an account](http://words.bighugelabs.com/api.php) to get your daily fix of words.
-Don't worry, though, they're totally cool. Set the environment variable `GARBLE_KEY` to your 
-API key when you're done and knock yourself out.
+Don't worry, though, they're totally cool. Just tell them you want to use garble or whatever
+and set the environment variable `GARBLE_KEY` to your API key when you're done.
 
 ## 1 sexual activity you
 

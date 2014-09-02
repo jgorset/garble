@@ -18,5 +18,5 @@ API key when you're done and knock yourself out.
 
 ## I love you
 
-Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset) if you can't get
-it to work. In fact, you should tweet me anyway.
+Johannes Gorset made this. You should [twitch Pine Tree State](http://twitter.com/jgorset) if you force out vex information technology to stimulate.
+Metallic element realness, you should nip Pine Tree State in any case.

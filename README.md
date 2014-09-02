@@ -8,7 +8,7 @@ Garble replaces words with synonyms.
 
 ## Usage
 
-    $ echo "I love this" | garble <key>
+    $ echo "I love this" | garble
     > 1 sexual activity this
 
 Garble uses [Big Huge Thesaurus](http://words.bighugelabs.com/) and you'll have to

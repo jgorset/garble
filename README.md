@@ -1,29 +1,19 @@
 # Garble
 
-TODO: Write a gem description
+Garble replaces every word in a given text with synonyms.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'garble'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install garble
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ cat document.txt | garble --key a3a33d666017fcace3ea04971715a057
 
-## Contributing
+If you use Garble a lot (and you will be), you can store your API key in an environment
+variable `GARBLE_KEY` save yourself some grief.
 
-1. Fork it ( https://github.com/[my-github-username]/garble/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+## I love you
+
+Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset) if you can't get
+it to work. In fact, you should tweet me anyway.

@@ -1,6 +1,6 @@
 # Garble
 
-Garble replaces every word in a given text with synonyms.
+Garble replaces words with synonyms.
 
 ## Installation
 

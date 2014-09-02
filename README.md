@@ -8,7 +8,8 @@ Garble replaces words with synonyms.
 
 ## Usage
 
-    $ cat document.txt | garble --key a3a33d666017fcace3ea04971715a057
+    $ echo "I love this" | garble key
+    > 1 sexual activity this
 
 If you use Garble a lot (and you will be), you can store your API key in an environment
 variable `GARBLE_KEY` save yourself some grief.
